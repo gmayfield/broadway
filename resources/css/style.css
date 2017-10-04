@@ -1,5 +1,16 @@
 html {
   text-align: center;
+  font-family: helvetica;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+a {
+  color: white;
 }
 
 ul {
@@ -9,10 +20,15 @@ ul {
 
 footer {
   text-align: left;
+  background-color: dimgray;
 
 }
 
-#home {
+.banner {
   background-image: url(../images/the-flatiron-building.png);
 
+}
+
+#copyright {
+  font-size: 11px;
 }
