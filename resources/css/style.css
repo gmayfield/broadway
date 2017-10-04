@@ -9,8 +9,28 @@ h1 {
   font-size: 70px;
 }
 
+h2 {
+  font-size: 22px;
+}
+
+h3.banner {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h3.banner {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
 a {
   color: white;
+  font-size: 18px;
 }
 
 ul {
